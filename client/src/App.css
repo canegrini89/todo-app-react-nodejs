@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.list-width {
+  max-width: 650px;
+  margin: 4em auto;
+}
+
+.left {
+  float: right;
+}
+
+.center {
+  text-align: center;
+}
+
+.list-group {
+  max-width: 500px;
+}
+
+.bg-btn {
+  outline: none;
+  border: none;
+  padding: 5px;
+  margin: 5px 10px;
+  background-color: transparent;
+}
+
+.cross-text {
+  text-decoration: line-through;
+}
+
+.list-group {
+  box-shadow: 5px 5px 5px grey;
+}
+
+.card {
+  max-width: 350px;
+  max-width: 350px;
+  margin: 20px 0px;
+  box-shadow: 5px 5px 5px grey;
+}
+
+.custom-select {
+  max-width: 150px;
+}
+
+.fa-times-circle {
+  color: red;
+  font-weight: bold;
+}
+.fa-check-circle {
+  color: green;
+  font-weight: bold;
+}
+
+.card-img {
+  height: 100%;
+  background-size: cover;
+}
